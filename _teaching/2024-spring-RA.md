@@ -8,7 +8,7 @@ date: 2024-03-01
 location: "Beijing, China"
 ---
 
-This is an undergraduate course in Peking University, instructed by [Prof.Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/). This course introduces several randomized algorithms and mathematical tools for analyzing them.
+This is an undergraduate course in Peking University, instructed by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/). This course introduces several randomized algorithms and mathematical tools for analyzing them.
 
 Lectures
 ======

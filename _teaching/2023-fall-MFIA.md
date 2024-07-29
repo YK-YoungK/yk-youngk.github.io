@@ -8,7 +8,7 @@ date: 2023-09-01
 location: "Beijing, China"
 ---
 
-This is an undergraduate course in Peking University, instructed by [Prof.Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/). This course introduces several mathematical topics related to computer science.
+This is an undergraduate course in Peking University, instructed by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/). This course introduces several mathematical topics related to computer science.
 
 Lectures
 ======
