@@ -19,7 +19,7 @@ Thursday, 3th to 4th sessions (10:10-12:00), Room 306, No.2 Teaching Building
 
 Contents
 ======
-1. Randomized algorithms.
+1. Randomized algorithms
   - Identity testing
   - Perfect matching
   - Primality testing
