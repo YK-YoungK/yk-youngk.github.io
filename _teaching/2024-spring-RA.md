@@ -1,5 +1,5 @@
 ---
-title: "Randomized algorithms, 2024 Spring"
+title: "Randomized Algorithms, 2024 Spring"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2024-spring-RA
