@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2024-05-ICML-efficient-Transformers
 excerpt: 'This paper investigates the expressive power of some efficient Transformer variants on reasoning tasks, showing they have no complexity gain comparing to standard Transformers on general reasoning tasks. This paper also investigates how locality can boost the efficiency of those efficient Transformers variants and reduce the computational cost.'
 date: 2024-05-02
-venue: 'ICML 2024'
+venue: 'ICML'
 # slidesurl: 'https://yk-youngk.github.io/files/slides1.pdf'
-paperurl: 'https://proceedings.mlr.press/v235/yang24a.html'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://yk-youngk.github.io/files/ICML-2024-efficient-Transformers-paper.pdf'
+citation: 'https://yk-youngk.github.io/files/ICML-2024-efficient-Transformers-bibtex.bib'
 ---
 
 [Twitter](https://x.com/bohang_zhang/status/1763584750953050392)
