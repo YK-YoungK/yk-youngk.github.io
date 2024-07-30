@@ -7,7 +7,7 @@ date: 2024-05-01
 venue: 'ICML'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://yk-youngk.github.io/files/ICML-2024-BiPE-paper.pdf'
-citation: 'https://yk-youngk.github.io/files/ICML-2024-BiPE-bibtex.bib'
+# citation: 'https://yk-youngk.github.io/files/ICML-2024-BiPE-bibtex.bib'
 ---
 
 [Twitter](https://x.com/zhenyuhe00/status/1786012160256258367)
