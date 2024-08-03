@@ -47,3 +47,10 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+---
+<center><sub>Visitor distribution </sub></center>
+
+<center>
+<a href='https://clustrmaps.com/site/1bnbv'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=6e799f&w=600&t=tt&d=g5Aslr0Ib3K9apqhyZbqykrtT9i1UzDxN64dEOprFLE&co=ffffff&ct=202020'/></a>
+</center>
