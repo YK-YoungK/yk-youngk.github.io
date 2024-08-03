@@ -52,5 +52,5 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 <center><sub>Visitor distribution </sub></center>
 
 <center>
-<a href='https://clustrmaps.com/site/1bnbv'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=6e799f&w=600&t=tt&d=g5Aslr0Ib3K9apqhyZbqykrtT9i1UzDxN64dEOprFLE&co=ffffff&ct=202020'/></a>
+<a href="https://clustrmaps.com/site/1c0po"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GULSJOvLIJschrrQFc7PhYpVsp-Yq8CEoEPuyP3lq-Q&cl=ffffff" /></a>
 </center>
