@@ -14,7 +14,5 @@ paperurl: 'https://yk-youngk.github.io/files/ICML-2024-efficient-Transformers-pa
 [Paper](https://yk-youngk.github.io/files/ICML-2024-efficient-Transformers-paper.pdf)
 |
 [Twitter](https://x.com/bohang_zhang/status/1763584750953050392)
-|
-[Citation](https://yk-youngk.github.io/files/ICML-2024-efficient-Transformers-bibtex.bib)
 
 This paper investigates the expressive power of some efficient Transformer variants on reasoning tasks, showing they have no complexity gain comparing to standard Transformers on general reasoning tasks. This paper also investigates how locality can boost the efficiency of those efficient Transformers variants and reduce the computational cost.

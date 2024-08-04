@@ -15,7 +15,5 @@ paperurl: 'https://yk-youngk.github.io/files/ICML-2024-BiPE-paper.pdf'
 [Twitter](https://x.com/zhenyuhe00/status/1786012160256258367)
 |
 [Code](https://github.com/zhenyuhe00/BiPE)
-|
-[Citation](https://yk-youngk.github.io/files/ICML-2024-BiPE-bibtex.bib)
 
 This paper leverages the intrinsic segmentation of language sequences and design a new positional encoding method called Bilevel Positional Encoding (BiPE). This paper shows BiPE is more effective from both theoretical and empirical analysis.
