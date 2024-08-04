@@ -2,7 +2,7 @@
 title: "Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation"
 collection: publications
 permalink: /publication/2024-05-ICML-BiPE
-excerpt: 'Zhenyu He, Guhao Feng, Shengjie Luo, **Kai Yang**, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He'
+excerpt: 'Zhenyu He\*, Guhao Feng\*, Shengjie Luo\*, **Kai Yang**, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He'
 date: 2024-05-01
 venue: 'ICML'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
