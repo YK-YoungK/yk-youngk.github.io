@@ -24,7 +24,9 @@ Zhenyu He\*, Guhao Feng\*, Shengjie Luo\*, **Kai Yang**, Liwei Wang, Jingjing Xu
 
 Awards
 ======
-
+* First Prize, 14th & 15th National University Mathematical Contest, 2022 & 2023.
+* Chinese National Scholarship, 2022.
+* Silver Medal, 36th Chinese Mathematical Olympiad, 2020.
 
 
 <!-- ---
