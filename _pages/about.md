@@ -22,7 +22,7 @@ Publications
 2. [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/abs/2401.16421)\\
 Zhenyu He\*, Guhao Feng\*, Shengjie Luo\*, **Kai Yang**, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He. In [ICML 2024](https://icml.cc//Conferences/2024). [Code](https://github.com/zhenyuhe00/BiPE).
 
-Awards
+Selected Awards
 ======
 * First Prize, 14th & 15th National University Mathematical Contest, 2022 & 2023.
 * Chinese National Scholarship, 2022.
