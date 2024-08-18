@@ -16,10 +16,10 @@ Publications
 ======
 <sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
 
-1. [Do Efficient Transformers Really Save Computation?](https://arxiv.org/abs/2402.13934)\\
+1. [Do Efficient Transformers Really Save Computation?](https://openreview.net/forum?id=xLikRS9OhW)\\
 **Kai Yang**, Jan Ackermann, Zhenyu He, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang. In [ICML 2024](https://icml.cc//Conferences/2024).
 
-2. [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/abs/2401.16421)\\
+2. [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://openreview.net/forum?id=luqH1eL4PN)\\
 Zhenyu He\*, Guhao Feng\*, Shengjie Luo\*, **Kai Yang**, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He. In [ICML 2024](https://icml.cc//Conferences/2024). [Code](https://github.com/zhenyuhe00/BiPE).
 
 Selected Awards
