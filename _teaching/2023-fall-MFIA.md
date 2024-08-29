@@ -23,11 +23,6 @@ Contents
 - Random graph
 - A lot of examples in application
 
-Grade Policy
-======
-- Assignments
-- Midterm Exam
-- Final Exam
 
 <!-- Heading 3
 ====== -->

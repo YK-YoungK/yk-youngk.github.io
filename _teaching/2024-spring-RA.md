@@ -39,11 +39,5 @@ Contents
   - Optional Stopping Theorem
 4. A lot of examples in application
 
-Grade Policy
-======
-- Assignments
-- Midterm Exam
-- Final Exam
-
 <!-- Heading 3
 ====== -->
