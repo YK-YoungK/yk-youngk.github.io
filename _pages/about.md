@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Kai Yang (杨铠), a third-year undergraduate student in **Turing Class**, School of EECS, Peking University. I am advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/) and [Prof. Di He](https://dihe-pku.github.io/). Currently, I am working as an student intern, advised by [Prof. Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/) in Carnegie Mellon University.
+Hi! I am Kai Yang (杨铠), a final-year undergraduate student in **Turing Class**, School of EECS, Peking University. I am advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/) and [Prof. Di He](https://dihe-pku.github.io/). During the summer of 2024, I worked as an student intern advised by [Prof. Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/) in Carnegie Mellon University.
 
 My research interest lies in machine learning theory and algorithms. I study the foundations of Transformers and other contemporary models, understanding their power and limitations. Recently, I am also working on developing self-supervised learning methods for learning representations from data.
 
