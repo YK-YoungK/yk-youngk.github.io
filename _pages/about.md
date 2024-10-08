@@ -24,9 +24,18 @@ Zhenyu He\*, Guhao Feng\*, Shengjie Luo\*, **Kai Yang**, Liwei Wang, Jingjing Xu
 
 Selected Awards
 ======
+* Chinese National Scholarship, 2021 - 2022.
 * First Prize, 14th & 15th National University Mathematical Contest, 2022 & 2023.
-* Chinese National Scholarship, 2022.
 * Silver Medal, 36th Chinese Mathematical Olympiad, 2020.
+
+Professional Services
+======
+**Peer Review:**
+* NeurIPS workshop: M3L 2024
+
+**Teaching Assistant:**
+* Peking University: Mathematical Foundations for the Information Age, Fall 2023 & Fall 2024
+* Peking University: Randomized Algorithms, Spring 2024
 
 
 <!-- ---
