@@ -22,6 +22,9 @@ Publications and Preprints
 2. [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://openreview.net/forum?id=luqH1eL4PN)\\
 Zhenyu He\*, Guhao Feng\*, Shengjie Luo\*, **Kai Yang**, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He. In [ICML 2024](https://icml.cc//Conferences/2024). [Code](https://github.com/zhenyuhe00/BiPE).
 
+3. [How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/abs/2410.13857)\\
+Guhao Feng\*, **Kai Yang\***, Yuntian Gu, Xinyue Ai, Shengjie Luo, Jiacheng Sun, Di He, Zhenguo Li, Liwei Wang. arXiv Preprint.
+
 Selected Awards
 ======
 * Chinese National Scholarship, 2021 - 2022.
@@ -31,11 +34,12 @@ Selected Awards
 Professional Services
 ======
 **Peer Review:**
-* NeurIPS workshop: M3L 2024
+* ICLR: 2025.
+* NeurIPS workshop: M3L 2024.
 
 **Teaching Assistant:**
-* Peking University: Mathematical Foundations for the Information Age, Fall 2023 & Fall 2024
-* Peking University: Randomized Algorithms, Spring 2024
+* Peking University: Mathematical Foundations for the Information Age, Fall 2023 & Fall 2024.
+* Peking University: Randomized Algorithms, Spring 2024.
 
 
 <!-- ---
