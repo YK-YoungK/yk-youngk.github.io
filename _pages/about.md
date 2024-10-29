@@ -25,11 +25,6 @@ Zhenyu He\*, Guhao Feng\*, Shengjie Luo\*, **Kai Yang**, Liwei Wang, Jingjing Xu
 3. [How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/abs/2410.13857)\\
 Guhao Feng\*, **Kai Yang\***, Yuntian Gu, Xinyue Ai, Shengjie Luo, Jiacheng Sun, Di He, Zhenguo Li, Liwei Wang. arXiv Preprint.
 
-Selected Awards
-======
-* Chinese National Scholarship, 2021 - 2022.
-* First Prize, 14th & 15th National University Mathematical Contest, 2022 & 2023.
-* Silver Medal, 36th Chinese Mathematical Olympiad, 2020.
 
 Professional Services
 ======
@@ -40,6 +35,13 @@ Professional Services
 **Teaching Assistant:**
 * Peking University: Mathematical Foundations for the Information Age, Fall 2023 & Fall 2024.
 * Peking University: Randomized Algorithms, Spring 2024.
+
+
+Selected Awards
+======
+* Chinese National Scholarship, 2021 - 2022.
+* First Prize, 14th & 15th National University Mathematical Contest, 2022 & 2023.
+* Silver Medal, 36th Chinese Mathematical Olympiad, 2020.
 
 
 <!-- ---
