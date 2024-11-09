@@ -37,9 +37,10 @@ Professional Services
 * Peking University: Randomized Algorithms, Spring 2024.
 
 
-Selected Awards
+Selected Awards and Honors
 ======
-* Chinese National Scholarship, 2021 - 2022.
+* Chinese National Scholarship, *The highest level of honor for university students (top 1%)*, 2021 - 2022.
+* May Fourth Scholarship, *The highest level scholarship at Peking University (top 1%)*, 2023 - 2024.
 * First Prize, 14th & 15th National University Mathematical Contest, 2022 & 2023.
 * Silver Medal, 36th Chinese Mathematical Olympiad, 2020.
 
