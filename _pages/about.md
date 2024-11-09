@@ -16,10 +16,10 @@ Publications and Preprints
 ======
 <sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
 
-1. [Do Efficient Transformers Really Save Computation?](https://openreview.net/forum?id=xLikRS9OhW)\\
+1. [Do Efficient Transformers Really Save Computation?](https://arxiv.org/abs/2402.13934)\\
 **Kai Yang**, Jan Ackermann, Zhenyu He, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang. In [ICML 2024](https://icml.cc//Conferences/2024).
 
-2. [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://openreview.net/forum?id=luqH1eL4PN)\\
+2. [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/abs/2401.16421)\\
 Zhenyu He\*, Guhao Feng\*, Shengjie Luo\*, **Kai Yang**, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He. In [ICML 2024](https://icml.cc//Conferences/2024). [Code](https://github.com/zhenyuhe00/BiPE).
 
 3. [How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/abs/2410.13857)\\
@@ -39,8 +39,8 @@ Professional Services
 
 Selected Awards and Honors
 ======
-* Chinese National Scholarship, *The highest level of honor for university students (top 1%)*, 2021 - 2022.
-* May Fourth Scholarship, *The highest level scholarship at Peking University (top 1%)*, 2023 - 2024.
+* Chinese National Scholarship, *The highest level of honor for university students*, 2021 - 2022.
+* May Fourth Scholarship, *The highest level scholarship at Peking University*, 2023 - 2024.
 * First Prize, 14th & 15th National University Mathematical Contest, 2022 & 2023.
 * Silver Medal, 36th Chinese Mathematical Olympiad, 2020.
 
