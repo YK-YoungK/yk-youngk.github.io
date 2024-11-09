@@ -14,7 +14,7 @@ My research interest lies in machine learning theory and algorithms. I study the
 
 Publications and Preprints
 ======
-<sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
+<sub>\* means equal contribution. </sub>
 
 1. [Do Efficient Transformers Really Save Computation?](https://arxiv.org/abs/2402.13934)\\
 **Kai Yang**, Jan Ackermann, Zhenyu He, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang. In [ICML 2024](https://icml.cc//Conferences/2024).
