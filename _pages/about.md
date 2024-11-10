@@ -11,6 +11,8 @@ Hi! I am Kai Yang (杨铠), a final-year undergraduate student in **Turing Class
 
 My research interest lies in machine learning theory and algorithms. I study the foundations of Transformers and other contemporary models, understanding their power and limitations. Recently, I am also working on developing new representation learning algorithms with theoretical guarantees.
 
+I'm applying for a Ph.D. position in the area of machine learning theory starting from **Fall, 2025**. Please contact me through email if you are interested in my work!
+
 
 Publications and Preprints
 ======
