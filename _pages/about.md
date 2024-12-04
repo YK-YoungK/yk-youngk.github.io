@@ -14,7 +14,7 @@ My research interest lies in machine learning theory and algorithms. I study the
 I'm applying for a Ph.D. position in the area of machine learning theory starting from **Fall, 2025**. Please contact me through email if you are interested in my work!
 
 
-Publications and Preprints
+Publications and Manuscripts
 ======
 <sub>\* means equal contribution. </sub>
 
@@ -26,6 +26,9 @@ Zhenyu He\*, Guhao Feng\*, Shengjie Luo\*, **Kai Yang**, Liwei Wang, Jingjing Xu
 
 3. [How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/abs/2410.13857)\\
 Guhao Feng\*, **Kai Yang\***, Yuntian Gu, Xinyue Ai, Shengjie Luo, Jiacheng Sun, Di He, Zhenguo Li, Liwei Wang. arXiv Preprint.
+
+4. Representation Learning Acquires Knowledge of Association\\
+Runtian Zhai, **Kai Yang**, Pradeep Ravikumar. Manuscript in preparation.
 
 
 Professional Services
