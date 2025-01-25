@@ -27,8 +27,8 @@ Zhenyu He\*, Guhao Feng\*, Shengjie Luo\*, **Kai Yang**, Liwei Wang, Jingjing Xu
 3. [How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs](https://arxiv.org/abs/2410.13857)\\
 Guhao Feng\*, **Kai Yang\***, Yuntian Gu, Xinyue Ai, Shengjie Luo, Jiacheng Sun, Di He, Zhenguo Li, Liwei Wang. arXiv Preprint.
 
-4. Representation Learning Acquires Knowledge of Association\\
-Runtian Zhai, **Kai Yang**, Pradeep Ravikumar. Manuscript in preparation.
+4. Contextures: Representations from Contexts\\
+Runtian Zhai\*, **Kai Yang\***, Burak Varici\*, Che-Ping Tsai\*, Zico Kolter, Pradeep Ravikumar. Manuscript in preparation.
 
 
 Professional Services
