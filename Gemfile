@@ -1,3 +1,7 @@
+# IMPORTANT!
+# Please use Ruby 3.1.x!
+# Use "bundle exec jekyll serve" in bash, instead of run_server.sh!
+
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -16,7 +20,8 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "wdm" # , "~> 0.1.0" if Gem.win_platform?
+gem "webrick"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -24,4 +29,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'tzinfo'
+  gem "tzinfo-data"
 end
