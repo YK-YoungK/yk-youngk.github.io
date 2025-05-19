@@ -5,12 +5,14 @@ layout: compress
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
+    <script type="module">
+      import * as Turbo from 'https://cdn.jsdelivr.net/npm/@hotwired/turbo@8.0.13/dist/turbo.es2017-umd.js';
+    </script>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
-
+<turbo-frame id="main_content">
   <body>
-
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -30,4 +32,5 @@ layout: compress
     {% include scripts.html %}
 
   </body>
+</turbo-frame>
 </html>

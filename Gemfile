@@ -1,6 +1,6 @@
 # IMPORTANT!
 # Please use Ruby 3.1.x!
-# Use "bundle exec jekyll serve" in bash, instead of run_server.sh!
+# Use "bundle exec jekyll serve -l" in bash, instead of run_server.sh!
 
 source "https://rubygems.org"
 
