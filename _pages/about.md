@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I am Kai Yang (杨铠), a final-year undergraduate student in **Turing Class**, School of EECS, Peking University. I'm fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/) and [Prof. Di He](https://dihe-pku.github.io/). During the summer of 2024, I worked as an student intern advised by [Prof. Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/) in Carnegie Mellon University.
 
-My research interest lies in machine learning theory and algorithms. My work aims to provide theoretical insights into the capabilities and limitations of contemporary models and algorithms, while also designing new ones with provable guarantees.
+My research interest lies in machine learning theory and algorithms. My work applies mathematical tools, aiming to provide theoretical insights into the capabilities and limitations of contemporary models and algorithms, and possibly design new ones with provable guarantees.
 Here are some research topics I work on:
 
 - The foundations of Transformers and large language models in complex tasks.
